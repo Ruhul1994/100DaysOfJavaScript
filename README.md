@@ -1,8 +1,8 @@
-100 Days of JavaScript 🚀
+<h1>100 Days of JavaScript 🚀 </h1>
 
-Welcome to my 100 Days of JavaScript journey! 🎯 My goal is to master intermediate to advanced JavaScript concepts step by step, building strong skills for real-world development and job readiness.
-📅 Day 1: Variables, Scopes, and Closures
-What I Learned:
+<h3>Welcome to my 100 Days of JavaScript journey! 🎯 My goal is to master intermediate to advanced JavaScript concepts step by step, building strong skills for real-world development and job readiness.<h3>
+<h2>📅 Day 1: Variables, Scopes, and Closures</h2>
+<h3>What I Learned:
 
     The difference between var, let, and const.
     Understanding function scope, block scope, and global scope.
@@ -42,17 +42,17 @@ console.log(counter()); // 2
 ├── 📂 Day01/
 │   ├── scope-and-closure.js
 │   └── README.md
-└── ... (More days coming soon!)
+└── ... (More days coming soon!) </h3>
 
-🎯 Goals for this Journey
+<h2>🎯 Goals for this Journey </h2>
 
-    Master intermediate to advanced JavaScript concepts.
+<h3>    Master intermediate to advanced JavaScript concepts.
     Build a strong portfolio of coding exercises and projects.
-    Document daily progress to showcase my learning journey.
+    Document daily progress to showcase my learning journey. </h3>
 
-📝 Follow My Journey:
+<h2>📝 Follow My Journey:</h2>
 
-    LinkedIn – Sharing my daily progress and reflections.
+   <h3> LinkedIn – Sharing my daily progress and reflections.
     GitHub – Code and learning materials.
 
-Feel free to explore and share feedback! Let's grow together. 💻✨
+Feel free to explore and share feedback! Let's grow together. 💻✨ </h3>
